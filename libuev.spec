@@ -4,7 +4,7 @@
 #
 Name     : libuev
 Version  : 2.2.0
-Release  : 2
+Release  : 3
 URL      : https://github.com/troglobit/libuev/releases/download/v2.2.0/libuev-2.2.0.tar.xz
 Source0  : https://github.com/troglobit/libuev/releases/download/v2.2.0/libuev-2.2.0.tar.xz
 Summary  : Simple event loop for Linux
