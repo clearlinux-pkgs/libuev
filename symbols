@@ -7,6 +7,9 @@ libuev.so.2:uev_cron_init
 libuev.so.2:uev_cron_set
 libuev.so.2:uev_cron_start
 libuev.so.2:uev_cron_stop
+libuev.so.2:uev_event_init
+libuev.so.2:uev_event_post
+libuev.so.2:uev_event_stop
 libuev.so.2:uev_exit
 libuev.so.2:uev_init
 libuev.so.2:uev_init1
